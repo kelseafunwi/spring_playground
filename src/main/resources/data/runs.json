@@ -1,0 +1,28 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "title": "Morning Jog",
+      "startedOn": "2024-03-01T06:00:00",
+      "completedOn": "2024-03-01T06:45:00",
+      "miles": 3,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 2,
+      "title": "Run Title",
+      "startedOn": "2024-03-02T02:12:30",
+      "completedOn": "2024-03-02T02:15:30",
+      "miles": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 3,
+      "title": "Evening Run",
+      "startedOn": "2024-03-02T18:00:00",
+      "completedOn": "2024-03-02T18:30:00",
+      "miles": 2,
+      "location": "OUTDOOR"
+    }
+  ]
+}
